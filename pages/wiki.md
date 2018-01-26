@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+description: 靜態的筆記頁面
+keywords: 維基, Wiki, 筆記
 comments: false
-menu: 维基
+menu: 維基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 記多少命令和快捷鍵會讓腦袋爆炸呢？
 
 <ul class="listing">
 {% for wiki in site.wiki %}
