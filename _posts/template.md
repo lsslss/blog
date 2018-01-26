@@ -18,6 +18,7 @@ using namespcae std;
 int main()
 {
     cout << "hello, world" << endl;
+    return 
 }
 ```
 
@@ -25,5 +26,5 @@ int main()
 
 toc 運作測試 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzAyNDUyOV19
+eyJoaXN0b3J5IjpbLTE1NDE0NjQwNzVdfQ==
 -->
