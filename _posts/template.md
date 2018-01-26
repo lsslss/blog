@@ -17,6 +17,7 @@ keywords:
 using namespcae std;
 int main()
 {
+ 
 }
 ```
 
@@ -24,5 +25,5 @@ int main()
 
 toc 運作測試 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDk2ODc4MF19
+eyJoaXN0b3J5IjpbODI2NTI4NTg2XX0=
 -->
