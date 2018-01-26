@@ -2,11 +2,13 @@
 layout: post
 title: Hello world
 categories: [雜記]
-description: some word here
-keywords: keyword1, keyword2
+description: 第一篇文章
+keywords: 
 ---
 
-Content here
+#Hello World
+
+這是本 blog 第一篇文章，測試用的，隨時會自砍 X
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTY4NzY0OV19
+eyJoaXN0b3J5IjpbMTY2NzYxMjgxMF19
 -->
