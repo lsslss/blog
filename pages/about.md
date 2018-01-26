@@ -1,20 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 關於我
+keywords: lss
 comments: true
-menu: 关于
+menu: 關於我
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+這是 lss 實驗室 beta2 
 
-仰慕「优雅编码的艺术」。
+使用 github page 的實驗 blog
 
-坚信熟能生巧，努力改变人生。
-
-## 联系
+## 連繫我
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
