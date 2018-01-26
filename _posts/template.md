@@ -1,12 +1,12 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
+title: Hello world
+categories: [雜記]
 description: some word here
 keywords: keyword1, keyword2
 ---
 
 Content here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDg5OTEzNV19
+eyJoaXN0b3J5IjpbMjE0NTY4NzY0OV19
 -->
