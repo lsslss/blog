@@ -11,7 +11,10 @@
 
 ## 超連結測試
 * [文字超連結 google](http://www.google.com)
-* http://
+* http://www.google.com
+* [google](<http://www.google.com>)
+* <http://www.google.com>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODE3MTc1OV19
+eyJoaXN0b3J5IjpbLTE1MTMzMTUyMDZdfQ==
 -->
