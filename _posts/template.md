@@ -17,7 +17,7 @@ keywords:
 using namespcae std;
 int main()
 {
-    cout << "hello, world
+    cout << "hello, world"
 }
 ```
 
@@ -25,5 +25,5 @@ int main()
 
 toc 運作測試 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMTk2OTg3XX0=
+eyJoaXN0b3J5IjpbMTgxMzE4ODkyOV19
 -->
