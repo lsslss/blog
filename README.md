@@ -1,6 +1,6 @@
-# 码志
+# lss實驗室 beta 2
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+Fork from：<http://mazhuang.org>，非常感謝。
 
 ## 概览
 
@@ -81,5 +81,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
 [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDc2OTY4Nl19
+eyJoaXN0b3J5IjpbLTE0NTgwNzEyMThdfQ==
 -->
