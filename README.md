@@ -8,8 +8,9 @@ Fork from：<http://mazhuang.org>，非常感謝。
 
 <!-- vim-markdown-toc GFM -->
 
+* [效果预览](#效果预览)
 * [Fork 指南](#fork-指南)
-* [貼心提示](#贴心提示)
+* [贴心提示](#贴心提示)
 * [经验与思考](#经验与思考)
 * [致谢](#致谢)
 
@@ -82,5 +83,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
 [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzE5MjI2XX0=
+eyJoaXN0b3J5IjpbLTEwODQ1NzEwMDZdfQ==
 -->
