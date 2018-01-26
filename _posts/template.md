@@ -11,7 +11,7 @@
 
 ## 超連結測試
 * [文字超連結 google](http://www.google.com)
-* ht
+* http://
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU0NjEzNzFdfQ==
+eyJoaXN0b3J5IjpbLTMyODE3MTc1OV19
 -->
