@@ -8,7 +8,7 @@ menu: 關於我
 permalink: /about/
 ---
 
-這是 lss 實驗室 beta2 
+這是 lss 實驗室 beta 2 
 
 使用 github page 的實驗 blog
 
